@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">quizoid</string>
+
+    <string name="about_text">
+        A quiz is a form of game or mind sport in which players attempt to answer questions correctly about a certain or variety of subjects. Quizzes can be used as a brief assessment in education and similar fields to measure growth in knowledge, abilities, or skills. They can also be televised for entertainment purposes, often in a game show format.
+        <br /> This Game is Develop by <strong>Mr. Uday Chugh</strong>
+        <br /> This Game contains 10 very easy questions that can blow your mind
+    </string>
+</resources>
